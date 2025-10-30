@@ -1,0 +1,21 @@
+import cards from './file.json'[ 
+  { 
+    "id": "1", 
+    "title": "React Native", 
+    "description": "Apprends à créer des apps mobiles cross-platform.", 
+    "image": "https://reactnative.dev/img/tiny_logo.png" 
+  }, 
+  { 
+    "id": "2", 
+    "title": "Expo", 
+    "description": "Démarre vite sans Android Studio ni Xcode.", 
+    "image": "https://avatars.githubusercontent.com/u/12504344?s=200&v=4" 
+  }, 
+  { 
+    "id": "3", 
+    "title": "Flexbox", 
+    "description": "Mets en page tes vues facilement.", 
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Vector
+based_example.svg" 
+  } 
+] 

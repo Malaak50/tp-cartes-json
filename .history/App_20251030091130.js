@@ -1,4 +1,4 @@
-
+}
 import React from 'react'; 
 import { View, StatusBar, StyleSheet } from 'react-native'; 
 // import nommé depuis CardList.js 
@@ -14,4 +14,4 @@ export default function App() {
 } 
  
 const styles = StyleSheet.create({ 
-  screen: { flex: 1, backgroundColor: '#f6f7fb' } });
+  screen: { flex: 1, backgroundColor: '#f6f7fb' } 
